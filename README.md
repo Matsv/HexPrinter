@@ -15,7 +15,7 @@
 
 ## Usage
 ```
-    java -jar HexPrinter.jar (integers)
+    java -jar HexPrinter.jar (numb)
 
     Example:
 

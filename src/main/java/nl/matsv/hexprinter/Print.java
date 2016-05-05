@@ -15,7 +15,7 @@ public class Print {
                 Byte i = Byte.parseByte(s);
                 System.out.println(String.format("%d => %02X", i, i));
             } catch (Exception e){
-                System.out.println("ERROR: " + e.getLocalizedMessage());
+                System.out.println(String.format("ERROR while parsing %s: %s", s, e.getLocalizedMessage()));
             }
         }
     }
