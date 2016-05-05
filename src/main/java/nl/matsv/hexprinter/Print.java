@@ -1,4 +1,4 @@
-package nl.Matsv.HexPrinter;
+package nl.matsv.hexprinter;
 
 /**
  * Created by Mats on 3-5-16.
@@ -13,7 +13,7 @@ public class Print {
         for (String s : args){
             try {
                 Byte i = Byte.parseByte(s);
-                System.out.println(String.format("%d => 0x%02X", i, i));
+                System.out.println(String.format("%d => %02X", i, i));
             } catch (Exception e){
                 System.out.println("ERROR: " + e.getLocalizedMessage());
             }

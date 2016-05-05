@@ -1,6 +1,6 @@
-#Just an easy Hex printer, didn't want to calculate it myself
+# Just an easy Hex printer, didn't want to calculate it myself
 
-##Installation
+## Installation
 ```
     Clone this repo
 
@@ -10,7 +10,10 @@
 
 ```
 
-##Usage
+## Direct download link
+[Downloads](https://github.com/Matsv/hexprinter/tags/)
+
+## Usage
 ```
     java -jar HexPrinter.jar (integers)
 
