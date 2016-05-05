@@ -1,4 +1,4 @@
-# Just an easy Hex printer, didn't want to calculate it myself
+## Just an easy Hex printer, didn't want to calculate it myself
 
 ## Installation
 ```
@@ -11,7 +11,7 @@
 ```
 
 ## Direct download link
-[Downloads](https://github.com/Matsv/hexprinter/tags/)
+[Downloads](https://github.com/Matsv/hexprinter/releases/)
 
 ## Usage
 ```
